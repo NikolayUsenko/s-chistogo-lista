@@ -1,5 +1,5 @@
 # С чистого листа
-Проектная работа от [Яндекс Практикум](https://practicum.yandex.ru/). Небольшая мобильная страница про страз чистого листа.
+Проектная работа от [Яндекс Практикум](https://practicum.yandex.ru/). Небольшая мобильная страница про страх чистого листа.
 ## Основные ссылки
 ### [Ссылка на репозиторий GitHub](https://github.com/NikolayUsenko/s-chistogo-lista)
 ### [Ссылка на GitHub Pages](https://nikolayusenko.github.io/s-chistogo-lista/)
